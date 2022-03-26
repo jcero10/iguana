@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    border: 0;
+    font-family: Raleway, sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+h2 {
+	color: #ffffff;
+}
+
+p {
+	color: #ffffff;
+}
+
+.header {
+    font-size: 50px;
+	font-weight: 500;
+	color: #ffffff;
+	margin: 0;
+	padding:  0;
+	text-align: center;
+}
+
+
+.first-img img{
+    width: 100%;
+}
+/* Sección descripción*/
+.desc-section {
+	background-color: #000000;
+	top: 800px;
+	left: 0px;
+	width: 1280px;
+	height: 348px;
+	margin-left: 25%;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.desc-text {
+	display: inline-block;
+	vertical-align: middle;
+	top: 876px;
+	left: 150px;
+	width: 475px;
+	height: 197px;
+	font-weight: 300;
+}
+
+.desc-img {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 40px;
+	top: 845px;
+	left: 731px;
+	width: 399px;
+	height: 237px;
+}
+
+.desc-img img {
+    top: 845px;
+	left: 731px;
+	width: 399px;
+	height: 237px;
+}
+
+
+/* Sección iconos */
+.icons-section {
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 50px;
+	
+}
+
+.icons-section h2 {
+    font-weight: 500;
+    font-size: 40px;
+    margin-bottom: 1em;
+}
+
+.icon {
+    display: inline-block;
+    width: 30%;
+}
+
+.icon p {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+/* Sección imagenes*/
+.sect-img {
+    text-align: center;
+    padding: 75px 0;
+}
+
+.image {
+    display: inline-block;
+    vertical-align: middle;
+	margin-left: 15px;
+}
+
+.image img {
+    width: 90%;
+	width: 316px;
+	height: 202px;
+}
+
+/* Footer*/
+footer {
+	background-color: #1E1A13;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	color: #ffffff;
+}
+
+footer a {
+    color: white;
+}
